@@ -2,10 +2,12 @@
 
 # FRUIT SLICER
 
-##Description-
+## Description
 
 Fruit Slicer is a skill-based fruit game. The goal of the Fruit Slice game is to cut/slice as many fruits in a circular rotating array of fruits within 30 seconds. The scores are updated every time a fruit is sliced using the circular blade that the user launches.    
 Grind all fruits in style to make a tasty mixed fruit juice with Fruit Slice.
+
+# Code 
 
 import pygame, sys, os
 import time
